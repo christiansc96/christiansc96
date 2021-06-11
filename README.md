@@ -1,15 +1,12 @@
 ### Hi✌️, I am Christian Sánchez 🤩
-
 ### I am Software Developer and Auth0 Ambassador. 🙌
 ### I am Organizer and Co-Founder of the DevTeam504 community 🙊 👉 https://twitter.com/DevTeam504
 ### I am also Co-Founder and Co-Organizer of the Flutter community in Honduras. 😱👉 https://twitter.com/FlutterHN
 ### I love sharing my knowledge in communities and helping others grow ❤️
 
 These are the talks I have shared in development communities:
-
 ### "Subiendo imágenes a Firebase Storage desde .NET 👉 https://youtu.be/5ydav1YuVVo"
 ![600x337](https://user-images.githubusercontent.com/62530123/121622959-17b45c80-ca2c-11eb-9b27-a5f9d57db26b.jpg)
-
 
 ### "Flutter for Web Developers 👉 https://youtu.be/CuoJdxCaSxI"
 ![E3Jef8IX0AQSoAH](https://user-images.githubusercontent.com/62530123/121623046-3b77a280-ca2c-11eb-829a-9a36e2ea987f.jpg)
@@ -28,3 +25,6 @@ These are the talks I have shared in development communities:
 
 ### "Haciendo API Rest con .NET Core"
 ![Haciendo API Rest con  NET Core](https://user-images.githubusercontent.com/62530123/121624436-c48fd900-ca2e-11eb-9697-d6007a71511f.jpg)
+
+### "Code First vs. Database First 👉 https://youtu.be/Fxc5IeoGKbc"
+![Code First vs  Database First](https://user-images.githubusercontent.com/62530123/121631026-8cdb5e00-ca3b-11eb-8a0a-2059fd83c267.jpg)
